@@ -1,6 +1,6 @@
 # FAC - Fake App Creator `Current Version : 1.1.2`
 Fake App Creator is an .net based application written by VB.NET . With This App You can make Apk Files From Configs ! If You See Any Fake Page You Know What I mean ! This App Will Create An Apk That Load a html file ( Templete Of FakeApp ) into a webbrowser and will send to server.php in your Host :simple_smile:
-`Sorry For My English :(`
+`Sorry For My Bad English :(`
 
 # Features & To Do List
 - [x] Custom Server Files
