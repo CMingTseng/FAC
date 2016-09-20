@@ -28,10 +28,14 @@ Fake App Creator is an .net based application written by VB.NET . With this app 
 
 :wrench: Steps to build
 - Download project
-- Add packages
+- Add packages :package:
 - Build 
 - Copy Extra.zip s files beside results (.exe file)
 - Run :simple_smile:
+- 
+# :hammer: How to use
+
+<b>This Section is not complete yet !</b>
 
 # :rocket: How to create config
 
@@ -42,7 +46,7 @@ Fake App Creator is an .net based application written by VB.NET . With this app 
 
 :wrench: Steps to create :
 
-*This Section is not complete yet !*
+<b>This Section is not complete yet !</b>
 
 :triangular_ruler: Example config
 - Instagram fakeapp : [Raw](https://github.com/sahand100/FAC/raw/master/Instagram%20Config%20Raw.zip) | [Packaged](https://github.com/sahand100/FAC#rocket-how-to-create-config)
