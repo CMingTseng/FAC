@@ -2,10 +2,12 @@
 [![AUR](https://img.shields.io/aur/license/yaourt.svg?maxAge=2592000?style=flat-square)]()
 [![FAC](https://img.shields.io/badge/Version-1.1.2.0-brightgreen.svg)](https://github.com/sahand100/FAC)
 
-Fake App Creator is an .net based application written by VB.NET . With This App You can make Apk Files From Configs ! If You See Any Fake Page You Know What I mean ! This App Will Create An Apk That Load a html file ( Templete Of FakeApp ) into a webbrowser and will send to server.php in your Host :simple_smile:
+![FAC](http://s3.img7.ir/69M6i.jpg)
+
+Fake App Creator is an .net based application written by VB.NET . With this app you will able to create apk files that works like same as fake pages ! It means it load a simple html file and send information to your server(php). With fake app you can collect more information about target like phonecontacts or ... . :simple_smile:
 `Sorry For My Bad English :(`
 
-# :memo: Features & To Do List
+# :memo: Features & To do list
 - [x] Custom Server Files
 - [x] App Preview
 - [x] Autosign
@@ -14,15 +16,15 @@ Fake App Creator is an .net based application written by VB.NET . With This App 
 - [ ] Custom Entries
 
 
-# :wrench: How To Build
-:hatching_chick: Things You Need :
+# :wrench: How to build
+:hatching_chick: Things you need :
 - Visual Studio ( 2015 Recommended )
-- Basic Knowledge Of VB.NET
+- Basic knowledge of VB.NET
 - Jre Or Jdk Version 8 [Download Java](https://java.com/download)
-- - These Dlls ( You Can Add These By [Nuget Package Manager](https://www.nuget.org/) )
+- These dlls ( You Can Add These By [Nuget Package Manager](https://www.nuget.org/) )
 - MetroFramework [Github](http://thielj.github.io/MetroFramework) | [Nuget](https://www.nuget.org/packages/MetroFramework/)
 - Ionic.Zip [Nuget](https://www.nuget.org/packages/DotNetZip/) | [CodePlex](https://dotnetzip.codeplex.com/)
-- Extra Files [Download](https://github.com/sahand100/FAC/raw/master/Extras.zip) ( It Contains [Sign.jar](https://github.com/appium/sign) , [Apktool.jar](https://ibotpeaches.github.io) , some .bat files & Some folders )
+- Extra files [Download](https://github.com/sahand100/FAC/raw/master/Extras.zip) ( It Contains [Sign.jar](https://github.com/appium/sign) , [Apktool.jar](https://ibotpeaches.github.io) , some .bat files & Some folders )
 
 :wrench: Steps To Build
 - Download Project
@@ -33,4 +35,5 @@ Fake App Creator is an .net based application written by VB.NET . With This App 
 
 # :rocket: How To Build Configs 
 
-Soon :P
+:hatching_chick: Things You Need :
+- Know how to build 
