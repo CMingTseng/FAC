@@ -5,7 +5,8 @@
 [Screenshot](http://s3.img7.ir/69M6i.jpg)
 
 Fake App Creator is an .net based application written by VB.NET . With this app you will able to create apk files that works like same as fake pages ! It means it load a simple html file and send information to your server(php). With fake app you can collect more information about target like phonecontacts or ... . :simple_smile:
-`Sorry For My Bad English :(`
+
+ `Sorry For My Bad English :(`
 
 # :memo: Features & To do list
 - [x] Custom Server Files
@@ -32,7 +33,7 @@ Fake App Creator is an .net based application written by VB.NET . With this app 
 - Build 
 - Copy Extra.zip s files beside results (.exe file)
 - Run :simple_smile:
-- 
+
 # :hammer: How to use
 
 <b>This Section is not complete yet !</b>
