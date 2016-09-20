@@ -19,7 +19,7 @@ Fake App Creator is an .net based application written by VB.NET . With This App 
 - Visual Studio ( 2015 Recommended )
 - Basic Knowledge Of VB.NET
 - Jre Or Jdk Version 8 [Download Java](https://java.com/download)
-- These Dlls ( You Can Add These By [Nuget Package Manager](https://www.nuget.org/) )
+- - These Dlls ( You Can Add These By [Nuget Package Manager](https://www.nuget.org/) )
 - MetroFramework [Github](http://thielj.github.io/MetroFramework) | [Nuget](https://www.nuget.org/packages/MetroFramework/)
 - Ionic.Zip [Nuget](https://www.nuget.org/packages/DotNetZip/) | [CodePlex](https://dotnetzip.codeplex.com/)
 - Extra Files [Download](https://github.com/sahand100/FAC/raw/master/Extras.zip) ( It Contains [Sign.jar](https://github.com/appium/sign) , [Apktool.jar](https://ibotpeaches.github.io) , some .bat files & Some folders )
