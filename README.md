@@ -40,8 +40,9 @@ Fake App Creator is an .net based application written by VB.NET . With this app 
 - Know how to code php to get data from app
 - Know how to html (css , js ) for app design
 
-:hatching_chick: Steps to create :
-*This Section is not complete yet !
+:wrench: Steps to create :
+
+*This Section is not complete yet !*
 
 :triangular_ruler: Example config
 - Instagram fakeapp : [Raw](https://github.com/sahand100/FAC/raw/master/Instagram%20Config%20Raw.zip) | [Packaged](https://github.com/sahand100/FAC#rocket-how-to-create-config)
